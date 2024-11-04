@@ -1,0 +1,26 @@
+# Nama Proyek: Kalimantan Watch
+
+## Nama dan NIM
+- **Nama:** [Nabhan Miqdad Mubarok]
+- **NIM:** [2301550017]
+
+## URL Website
+[file:///D:/SmartWatch/index.html]
+[file:///D:/SmartWatch/apple.html]
+[file:///D:/SmartWatch/pemesanan.html]
+
+## Penjelasan Fitur
+1. **Fitur index**: berfungsi sebagai kepala/owner dari jalannya suatu program,File `index.html` berperan sebagai halaman utama atau beranda awal pada situs web. Sebagai titik masuk pertama, ini menjadi pusat navigasi dan tampilan, yang membantu pengunjung menemukan konten lainnya di situs. Di server web, `index.html` adalah halaman default yang diakses saat pengguna memasukkan alamat situs, membuatnya penting untuk kesan pertama, struktur situs, dan optimasi mesin pencari.
+2. **Fitur detail produk: Detail produk berfungsi untuk memberikan informasi lengkap tentang suatu barang, seperti fitur, spesifikasi, harga, dan manfaat. Ini membantu calon pembeli memahami produk secara lebih mendalam, membuat keputusan yang lebih baik, dan meningkatkan kepercayaan terhadap produk sebelum melakukan pembelian.
+3. **Fitur pemesanan:Mengumpulkan Data Pembeli: Meminta nama, alamat, nomor telepon, dan informasi lain yang diperlukan untuk pengiriman produk.
+
+Meninjau Ringkasan Pesanan: Menampilkan rincian produk yang akan dibeli (jumlah, harga, total biaya) sehingga pembeli bisa memverifikasi pesanan sebelum melanjutkan.
+
+Memilih Metode Pembayaran: Menyediakan opsi pembayaran (transfer bank, kartu kredit, e-wallet) untuk memudahkan proses transaksi.
+
+Konfirmasi Pembelian: Setelah mengisi semua informasi dan memilih metode pembayaran, pembeli bisa memproses pesanan untuk finalisasi.
+
+## Cara Menjalankan Website
+1. Clone repository ini ke komputer Anda:
+   ```bash
+   git clone https://github.com/username/repository-name.git
